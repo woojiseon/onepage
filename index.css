@@ -188,22 +188,18 @@ input[name=tabmenu]{
 }
 
 .slide1{
-  background-color: #050402;
   background: url(image/1main/11.png) no-repeat;
   background-position: left bottom;
 }
 .slide2{
-  background-color: #050402;
   background: url(image/1main/22.png) no-repeat;
   background-position: left bottom;
 }
 .slide3{
-  background-color: #050402;
   background: url(image/1main/33.png) no-repeat;
   background-position: left bottom;
 }
 .slide4{
-  background-color: #050402;
   background: url(image/1main/44.png) no-repeat;
   background-position: left bottom;
 }

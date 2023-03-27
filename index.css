@@ -168,7 +168,6 @@ main {
   width: 1200px;
   height: 680px;
   position: relative;
-  border: 1px solid green;
 }
 
 input[name=tabmenu]{
@@ -183,7 +182,6 @@ input[name=tabmenu]{
   height: 680px;
   opacity: 0;
   transition: 0.5s;
-  border: 1px solid red;
   overflow: hidden;
 }
 
